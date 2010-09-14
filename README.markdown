@@ -1,3 +1,6 @@
+iscroller
+====================
+
 Seeing [www.cohuman.com](http://www.cohuman.com) on the iPad – even before our site was iReady – was a revelation. The clipboard form factor of the iPad combined with our panel based interface  inspired visions of people everywhere walking through their offices and warehouses alike delegating tasks with flicks of a finger. Because the iPad was designed for our website's layout, we decided to make the site work through the Mobile Safari web browser rather than make a native app. If you've ever used the iPad or iPhone, you've probably noticed the absence of scrollbars. They don't exist! Mobile Safari lets you "scroll" the entire page by sliding your finger around, but all other scrollbars are simply discarded. Thus our first challenge was to allow you to scroll through each panel independently, slide panels left and right in your workspace, and flip through your left nav of projects and cohumans. Essentially, we needed to reinvent the native iPad/iPhone scrolling behavior.
 
 ## Basic Scrolling
